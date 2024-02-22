@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Arun Ravi </h1>
 <h3 align="center">A passionate Hacker</h3>
 
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi-the-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="arun-the-hacker" /> </p>
 
@@ -12,4 +12,24 @@
 
 <p align="left"> <a href="https://twitter.com/arun_ravi96" target="blank"><img src="https://img.shields.io/twitter/follow/arun-the-hacker?logo=twitter&style=for-the-badge" alt="arun-the-hacker" /></a> </p>
 
+  🔥 I’m good at developing tools for Cyber Security/Investigation **(macchanger,networkscanning)**
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
+  👨‍💻 More About me penetration tester
+
+  💬 Ask me about **Bugbounty , penetration tester**
+
+  📫 How to reach me **mrcarun.ravi@gmail.com**
+
+  ⚡ Fun fact **Hack ---> Code ---> Repeat**
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/arun_ravi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arunthehacker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-ravi-2b736223b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunthehacker" height="30" width="40" /></a>
+<a href="https://instagram.com/karthithehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunthehacker" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyiZHuoDz8KP3quElBBAmJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arunthehacker" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Programming Languages :</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
